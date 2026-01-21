@@ -1,12 +1,13 @@
-This repository is intentionally focused on real failures and how they were resolved, not idealized architectures.
+#This repository is intentionally focused on real failures and how they were resolved, not idealized architectures.
 
-# Cloud Troubleshooting & Systems Debugging
 
 ## Why I Enjoy Troubleshooting
 
 I enjoy troubleshooting because it reveals how systems actually behave under real conditions.
 When something breaks, I focus on signals — logs, metrics, and system behavior — instead of assumptions.
 My approach is to isolate variables, identify root causes, and validate fixes through telemetry
+
+# Cloud Troubleshooting & Systems Debugging
 
 ## AWS & Kubernetes
 - EKS node failures (IAM, subnet tagging)
