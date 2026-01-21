@@ -1,4 +1,4 @@
-#This repository is intentionally focused on real failures and how they were resolved, not idealized architectures.
+# This repository is intentionally focused on real failures and how they were resolved, not idealized architectures.
 
 
 ## Why I Enjoy Troubleshooting
