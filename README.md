@@ -23,7 +23,7 @@
 - Missing failure visibility → added CloudWatch alarms for errors and throttles
 - False confidence from green dashboards → validated alerts via forced failures
 
-### Kubernetes, Identity & IaC (Prior Projects)
+### Kubernetes, Identity & IaC 
 - EKS node registration failures → resolved IAM + subnet tagging issues
 - PVCs stuck Pending → corrected EBS CSI lifecycle + IRSA
 - Conditional Access false positives → tuned risk signals and policy order
