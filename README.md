@@ -2,7 +2,7 @@
 
 > This repository intentionally documents real failures and how they were resolved,
 > focusing on system behavior observed through logs, metrics, and controlled testing
-> rather than idealized architectures.
+> rather than architectures.
 
 ### Serverless & Event-Driven Systems
 - EventBridge rules not triggering Lambda → fixed via event pattern isolation and schema validation
